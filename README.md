@@ -1,2 +1,1 @@
-# alx-zero_day
-Alx student aspiring to a full stack software engineer
+I'm now a ALX Student, this is my first repository as a full-stack engineer
